@@ -1,11 +1,15 @@
 # Data-Visualization-of-Bird-Strikes-between-2000-2011
-<!DOCTYPE html>
-<html>
-  <head>
-    </head>
-  <body>
-    <div class='tableauPlaceholder' id='viz1629568818522' style='position: relative'><noscript><a href='#'><img alt='Data Visualization of Bird Strikes between 2000 – 2011 in US ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bi&#47;BirdStrikesinUSbetween2000-2011&#47;DataVisualizationofBirdStrikesbetween20002011inUS&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;BirdStrikesinUSbetween2000-2011&#47;DataVisualizationofBirdStrikesbetween20002011inUS?:language=en-US&amp;:embed=true' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bi&#47;BirdStrikesinUSbetween2000-2011&#47;DataVisualizationofBirdStrikesbetween20002011inUS&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>   
-    <script type='text/javascript'>                    var divElement = document.getElementById('viz1629568818522');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1269px';vizElement.style.height='1781px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1269px';vizElement.style.height='1781px';} else { vizElement.style.width='100%';vizElement.style.height='3227px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
-    </script>
-    </body>
-  </html>
+A bird strike is strictly defined as a collision between a bird and an aircraft which is in 
+flight or on a take-off or landing roll. The term is often expanded to cover other wildlife 
+strikes - with bats or ground animals. Bird Strike is common and can be a significant 
+threat to aircraft safety. For smaller aircraft, significant damage may be caused to the 
+aircraft structure and all aircraft, especially jet-engine ones, are vulnerable to the loss of 
+thrust which can follow the ingestion of birds into engine air intakes. This has resulted in
+several fatal accidents. Bird strikes may occur during any phase of flight, but are most 
+likely during the take-off, initial climb, approach and landing phases due to the greater 
+numbers of birds in flight at lower levels. To have a closer look the following document 
+visually depicts the data collected on Bird Strikes by FAA between 2000-2011.
+
+![Data Visualization of Bird Strikes between 2000 – 2011 in US](https://user-images.githubusercontent.com/46862749/130344288-b3823372-c34b-4b28-825e-ebe586010d29.png)
+ Tableau Dashbord - https://public.tableau.com/views/BirdStrikesinUSbetween2000-2011/DataVisualizationofBirdStrikesbetween20002011inUS?:language=en-US&:display_count=n&:origin=viz_share_link
+
